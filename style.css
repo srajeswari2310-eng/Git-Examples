@@ -1,0 +1,13 @@
+p{
+    background-color: yellow;
+}
+
+hr{
+    border: 2px solid red;
+    border-style: dashed;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
